@@ -11,7 +11,7 @@ Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas secara step-b
 
 NOMOR 2
 Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html.
-https://www.canva.com/design/DAGyi12kbQw/LHdLvS_xHFd4sFHzUINTtg/edit?utm_content=DAGyi12kbQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+(https://www.canva.com/design/DAGyi0GQxyE/VgBOXY1-47SITHk6BlI1uQ/edit?utm_content=DAGyi0GQxyE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 NOMOR 3
 Jelaskan peran settings.py dalam proyek Django!
