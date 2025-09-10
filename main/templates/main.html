@@ -1,0 +1,26 @@
+<h1>{{ app_name }}</h1>
+
+<h4>Name:</h4>
+<p>{{ name }}</p>
+
+<h4>Class:</h4>
+<p>{{ class }}</p>
+
+<h2>Daftar Produk</h2>
+{% if products %}
+    <ul>
+        {% for product in products %}
+            <li>
+                <h3>{{ product.name }}</h3>
+                <p>Harga: Rp{{ product.price }}</p>
+                <p>{{ product.description }}</p>
+                <img src="{{ product.thumbnail }}" alt="{{ product.name }}" width="200">
+                <p>Kategori: {{ product.category }}</p>
+                <p>Featured: {{ product.is_featured }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+{% else %}
+    <p>Belum ada produk.</p>
+{% endif %}
+
