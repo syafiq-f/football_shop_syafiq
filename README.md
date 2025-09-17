@@ -34,7 +34,7 @@ NOMOR 3
 is_valid() itu fungsi untuk prevent agar jawaban yang diinput itu sesuai dengan apa yang diset pada tipe datanya, sehingga tidak akan error dan terdapat kesalahan tipe data. Seperti contohnya di bagian harga tentunya kita expect untuk mendapatkan sebuah angka/integer dan untuk prevent error maka diperlukan is_valid supaya sesuai dengan kemauan.
 
 NOMOR 4
-dari pengertiannya sendiri, csrf merupakan Cross-Site Request Forgery. Based on https://portswigger.net/web-security/csrf dia itu seperti aksi prevent kejahatan dari luar
+dari pengertiannya sendiri, csrf merupakan Cross-Site Request Forgery. Based on https://portswigger.net/web-security/csrf dia itu seperti aksi prevent kejahatan dari luar.
 
 NOMOR 5
 Sekarang saya sudah lumayan paham cara pebngerjaannya
